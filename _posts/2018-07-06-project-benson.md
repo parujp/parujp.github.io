@@ -2,7 +2,7 @@
 layout: post
 title: Optimizing Flyer Distribution at NYC Subways for WomenTechWomenYes (WTWY) Gala 2018
 ---
-![alt_text]("https://clipartxtras.com/download/7292712c32a658637963d64a8847d11183384e56.html)
+<a href="https://clipartxtras.com/download/7292712c32a658637963d64a8847d11183384e56.html" title="Image from clipartxtras.com"><img src="https://img.clipartxtras.com/743289054eaebb76b62e592e7b359050_black-ink-sketch-etsy-au-nyc-subway-drawing_340-270.jpeg" width="340" alt="nyc subway drawing" /></a>
 Image Source:clipartxtras.com
 
 ### Background
