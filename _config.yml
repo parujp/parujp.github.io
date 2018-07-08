@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               A Github Blog
-tagline:             A Moderately Okay Data Science Blog
+title:               The Labyrinth
+tagline:             A Moderately Okay Blog about Data Science, Mathematics, Patterns,and  Algorithms 
 url:                 http://parujp.github.io/
 paginate:            2
 baseurl:             ""
