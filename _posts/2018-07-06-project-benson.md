@@ -18,4 +18,4 @@ Using the MTA (Metropolitan Transportation Authority of the State of New York) D
 ### Conclusion
 
 ### Recommendation
-![alt_text](~/Documents/metis_blog/public/WTWY.jpg)
+![alt_text](./../public/WTWY.jpg)
