@@ -14,10 +14,8 @@ Using the MTA (Metropolitan Transportation Authority of the State of New York) D
 ### Analysis
 
 ### Results
-![alt_text](https://parujp.github.io/public/WTWY.jpg)
+
 ### Conclusion
 
 ### Recommendation
-<a href="https://drive.google.com/open?id=1ftW2rLIrltsupZhO9avPLvtcAr1Bea0t"></a>
-
-![reference](https://drive.google.com/open?id=1ftW2rLIrltsupZhO9avPLvtcAr1Bea0t)
+![alt_text](~/Documents/metis_blog/public/WTWY.jpg)
