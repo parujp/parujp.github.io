@@ -44,7 +44,7 @@ This is a cleaned dataset that takes into account only crimes that Subway commut
 
 Original Dataset: Include all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far the year (2016). Offenses occurring at intersections are represented at the X Coordinate and Y Coordinate of the intersection
 
-![alt_text](./../public/NYC_Recommended_Stations.png)
+![alt_text](./public/NYC_Recommended_Stations.png)
 
 These maps were distributed to the street teams at WTWY International.  
 

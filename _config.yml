@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               The Labyrinth
-tagline:             A Moderately Okay Blog about Data Science, Mathematics, Patterns,and  Algorithms 
+title:               KALEIDOSCOPE
+tagline:             A datascience blog 
 url:                 http://parujp.github.io/
 paginate:            2
 baseurl:             ""
@@ -17,7 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              PJ
+  name:              Paru Jayaprakash
   email:             paru.jayp@gmail.com
 
 # Custom vars
