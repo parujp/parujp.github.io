@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               KALEIDOSCOPE
-tagline:             A datascience blog 
+tagline:             A datascience blog
 url:                 http://parujp.github.io/
 paginate:            2
 baseurl:             ""
