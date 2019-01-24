@@ -10,13 +10,16 @@
         <h1 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a> 
           <br> 
-          <small>{{ site.tagline }}:</small><br>
+          <h2> <small>{{ site.tagline }}:</small><br> </h2>
+          <img src = "./public/bckgnd.png" height="200" width="1000"><br>
+          <h3>
           {% for page in site.pages_list %}
           &emsp;&emsp;&emsp;
           <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
+            </h3>
         </h1>
-        <img src = "./public/bckgnd.png" height="200" width="1000">
+        
       </header>
 
       <main>
